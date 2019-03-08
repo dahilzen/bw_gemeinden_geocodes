@@ -914,6 +914,7 @@
 { "type": "Feature", "properties": { "gkz": "08335081", "ort": "Volkertshausen" }, "geometry": { "type": "Point", "coordinates": [ 8.862700462341309, 47.822280883789062 ] } },
 { "type": "Feature", "properties": { "gkz": "08335097", "ort": "Mühlhausen-Ehingen" }, "geometry": { "type": "Point", "coordinates": [ 8.818659782409668, 47.807918548583984 ] } },
 { "type": "Feature", "properties": { "gkz": "08336008", "ort": "Binzen" }, "geometry": { "type": "Point", "coordinates": [ 7.624040126800537, 47.631328582763672 ] } },
+{ "type": "Feature", "properties": { "gkz": "08336010", "ort": "Böllen" }, "geometry": { "type": "Point", "coordinates": [ 7.840833, 47.801944 ] } },
 { "type": "Feature", "properties": { "gkz": "08336014", "ort": "Efringen-Kirchen" }, "geometry": { "type": "Point", "coordinates": [ 7.564509868621826, 47.649959564208984 ] } },
 { "type": "Feature", "properties": { "gkz": "08336019", "ort": "Eimeldingen" }, "geometry": { "type": "Point", "coordinates": [ 7.595170021057129, 47.631099700927734 ] } },
 { "type": "Feature", "properties": { "gkz": "08336036", "ort": "Hausen im Wiesental" }, "geometry": { "type": "Point", "coordinates": [ 7.840569972991943, 47.681400299072266 ] } },
